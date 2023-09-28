@@ -1,1 +1,1 @@
-# htnl-resume
+# html-resume
